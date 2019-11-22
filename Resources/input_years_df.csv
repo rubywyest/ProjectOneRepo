@@ -1,20 +1,4 @@
 YEAR,AREA,ST,STATE,OCC_CODE,OCC_TITLE,OCC_GROUP,TOT_EMP
-2009,48,TX,Texas,15-0000,Computer and mathematical science ,major,265030
-2009,48,TX,Texas,15-1011,"Computer and information scientists, research",,1480
-2009,48,TX,Texas,15-1021,Computer programmers,,31820
-2009,48,TX,Texas,15-1031,"Computer software engineers, applications",,34260
-2009,48,TX,Texas,15-1032,"Computer software engineers, systems software",,35250
-2009,48,TX,Texas,15-1041,Computer support specialists,,45600
-2009,48,TX,Texas,15-1051,Computer systems analysts,,45550
-2009,48,TX,Texas,15-1061,Database administrators,,9700
-2009,48,TX,Texas,15-1071,Network and computer systems administrators,,29090
-2009,48,TX,Texas,15-1081,Network systems and data communications analysts,,15440
-2009,48,TX,Texas,15-1099,"Computer specialists, all other",,8410
-2009,48,TX,Texas,15-2011,Actuaries,,790
-2009,48,TX,Texas,15-2021,Mathematicians,,90
-2009,48,TX,Texas,15-2031,Operations research analysts,,6450
-2009,48,TX,Texas,15-2041,Statisticians,,1020
-2009,48,TX,Texas,15-2099,"Mathematical scientists, all other",,0
 2010,48,TX,Texas,15-0000,Computer and Mathematical ,major,263130
 2010,48,TX,Texas,15-1111,Computer and Information Research Scientists,,1660
 2010,48,TX,Texas,15-1121,Computer Systems Analysts,,44850
