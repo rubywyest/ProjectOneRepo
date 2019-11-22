@@ -1,0 +1,168 @@
+YEAR,AREA,ST,STATE,OCC_CODE,OCC_TITLE,OCC_GROUP,TOT_EMP
+2010,48,TX,Texas,15-0000,Computer and Mathematical ,major,263130
+2010,48,TX,Texas,15-1111,Computer and Information Research Scientists,,1660
+2010,48,TX,Texas,15-1121,Computer Systems Analysts,,44850
+2010,48,TX,Texas,15-1131,Computer Programmers,,27620
+2010,48,TX,Texas,15-1132,"Software Developers, Applications",,34810
+2010,48,TX,Texas,15-1133,"Software Developers, Systems Software",,33630
+2010,48,TX,Texas,15-1141,Database Administrators,,9180
+2010,48,TX,Texas,15-1142,Network and Computer Systems Administrators*,,27380
+2010,48,TX,Texas,15-1150,Computer Support Specialists,,49260
+2010,48,TX,Texas,15-1179,"Information Security Analysts, Web Developers, and Computer Network Architects",,18080
+2010,48,TX,Texas,15-1799,"Computer , All Other*",,9000
+2010,48,TX,Texas,15-2011,Actuaries,,830
+2010,48,TX,Texas,15-2021,Mathematicians,,90
+2010,48,TX,Texas,15-2031,Operations Research Analysts,,5620
+2010,48,TX,Texas,15-2041,Statisticians,,1110
+2011,48,TX,Texas,15-0000,Computer and Mathematical ,major,273170
+2011,48,TX,Texas,15-1111,Computer and Information Research Scientists,,1680
+2011,48,TX,Texas,15-1121,Computer Systems Analysts,,44880
+2011,48,TX,Texas,15-1131,Computer Programmers,,24630
+2011,48,TX,Texas,15-1132,"Software Developers, Applications",,38040
+2011,48,TX,Texas,15-1133,"Software Developers, Systems Software",,34820
+2011,48,TX,Texas,15-1141,Database Administrators,,9570
+2011,48,TX,Texas,15-1142,Network and Computer Systems Administrators*,,27360
+2011,48,TX,Texas,15-1150,Computer Support Specialists,,54370
+2011,48,TX,Texas,15-1179,"Information Security Analysts, Web Developers, and Computer Network Architects",,21030
+2011,48,TX,Texas,15-1799,"Computer , All Other*",,9220
+2011,48,TX,Texas,15-2011,Actuaries,,920
+2011,48,TX,Texas,15-2021,Mathematicians,,100
+2011,48,TX,Texas,15-2031,Operations Research Analysts,,5360
+2011,48,TX,Texas,15-2041,Statisticians,,1110
+2011,48,TX,Texas,15-2091,Mathematical Technicians,,0
+2012,48,TX,Texas,15-0000,Computer and Mathematical ,major,292370
+2012,48,TX,Texas,15-1111,Computer and Information Research Scientists,detailed,1630
+2012,48,TX,Texas,15-1121,Computer Systems Analysts,detailed,41890
+2012,48,TX,Texas,15-1122,Information Security Analysts,detailed,6940
+2012,48,TX,Texas,15-1131,Computer Programmers,detailed,23300
+2012,48,TX,Texas,15-1132,"Software Developers, Applications",detailed,41530
+2012,48,TX,Texas,15-1133,"Software Developers, Systems Software",detailed,32660
+2012,48,TX,Texas,15-1134,Web Developers,detailed,7130
+2012,48,TX,Texas,15-1141,Database Administrators,detailed,9880
+2012,48,TX,Texas,15-1142,Network and Computer Systems Administrators,detailed,29480
+2012,48,TX,Texas,15-1143,Computer Network Architects,detailed,11450
+2012,48,TX,Texas,15-1151,Computer User Support Specialists,detailed,48640
+2012,48,TX,Texas,15-1152,Computer Network Support Specialists,detailed,18560
+2012,48,TX,Texas,15-1199,"Computer , All Other",detailed,12030
+2012,48,TX,Texas,15-2011,Actuaries,detailed,990
+2012,48,TX,Texas,15-2021,Mathematicians,detailed,110
+2012,48,TX,Texas,15-2031,Operations Research Analysts,detailed,5400
+2012,48,TX,Texas,15-2041,Statisticians,detailed,660
+2012,48,TX,Texas,15-2091,Mathematical Technicians,detailed,0
+2013,48,TX,Texas,15-0000,Computer and Mathematical ,major,310440
+2013,48,TX,Texas,15-1111,Computer and Information Research Scientists,detailed,1060
+2013,48,TX,Texas,15-1121,Computer Systems Analysts,detailed,45710
+2013,48,TX,Texas,15-1122,Information Security Analysts,detailed,6550
+2013,48,TX,Texas,15-1131,Computer Programmers,detailed,23040
+2013,48,TX,Texas,15-1132,"Software Developers, Applications",detailed,43540
+2013,48,TX,Texas,15-1133,"Software Developers, Systems Software",detailed,34500
+2013,48,TX,Texas,15-1134,Web Developers,detailed,8310
+2013,48,TX,Texas,15-1141,Database Administrators,detailed,10390
+2013,48,TX,Texas,15-1142,Network and Computer Systems Administrators,detailed,32070
+2013,48,TX,Texas,15-1143,Computer Network Architects,detailed,11770
+2013,48,TX,Texas,15-1151,Computer User Support Specialists,detailed,54140
+2013,48,TX,Texas,15-1152,Computer Network Support Specialists,detailed,18760
+2013,48,TX,Texas,15-1199,"Computer , All Other",detailed,12840
+2013,48,TX,Texas,15-2011,Actuaries,detailed,870
+2013,48,TX,Texas,15-2021,Mathematicians,detailed,90
+2013,48,TX,Texas,15-2031,Operations Research Analysts,detailed,5830
+2013,48,TX,Texas,15-2041,Statisticians,detailed,860
+2013,48,TX,Texas,15-2091,Mathematical Technicians,detailed,0
+2014,48,TX,Texas,15-0000,Computer and Mathematical ,major,332970
+2014,48,TX,Texas,15-1111,Computer and Information Research Scientists,detailed,990
+2014,48,TX,Texas,15-1121,Computer Systems Analysts,detailed,51700
+2014,48,TX,Texas,15-1122,Information Security Analysts,detailed,6170
+2014,48,TX,Texas,15-1131,Computer Programmers,detailed,23060
+2014,48,TX,Texas,15-1132,"Software Developers, Applications",detailed,45800
+2014,48,TX,Texas,15-1133,"Software Developers, Systems Software",detailed,38060
+2014,48,TX,Texas,15-1134,Web Developers,detailed,9550
+2014,48,TX,Texas,15-1141,Database Administrators,detailed,10970
+2014,48,TX,Texas,15-1142,Network and Computer Systems Administrators,detailed,33820
+2014,48,TX,Texas,15-1143,Computer Network Architects,detailed,11180
+2014,48,TX,Texas,15-1151,Computer User Support Specialists,detailed,58360
+2014,48,TX,Texas,15-1152,Computer Network Support Specialists,detailed,19870
+2014,48,TX,Texas,15-1199,"Computer , All Other",detailed,14000
+2014,48,TX,Texas,15-2011,Actuaries,detailed,980
+2014,48,TX,Texas,15-2021,Mathematicians,detailed,100
+2014,48,TX,Texas,15-2031,Operations Research Analysts,detailed,7020
+2014,48,TX,Texas,15-2041,Statisticians,detailed,1060
+2014,48,TX,Texas,15-2091,Mathematical Technicians,detailed,160
+2014,48,TX,Texas,15-2099,"Mathematical Science , All Other",detailed,110
+2015,48,TX,Texas,15-0000,Computer and Mathematical ,major,353760
+2015,48,TX,Texas,15-1111,Computer and Information Research Scientists,detailed,1690
+2015,48,TX,Texas,15-1121,Computer Systems Analysts,detailed,61870
+2015,48,TX,Texas,15-1122,Information Security Analysts,detailed,7740
+2015,48,TX,Texas,15-1131,Computer Programmers,detailed,21680
+2015,48,TX,Texas,15-1132,"Software Developers, Applications",detailed,53460
+2015,48,TX,Texas,15-1133,"Software Developers, Systems Software",detailed,35590
+2015,48,TX,Texas,15-1134,Web Developers,detailed,9240
+2015,48,TX,Texas,15-1141,Database Administrators,detailed,11810
+2015,48,TX,Texas,15-1142,Network and Computer Systems Administrators,detailed,33990
+2015,48,TX,Texas,15-1143,Computer Network Architects,detailed,12200
+2015,48,TX,Texas,15-1151,Computer User Support Specialists,detailed,60330
+2015,48,TX,Texas,15-1152,Computer Network Support Specialists,detailed,19400
+2015,48,TX,Texas,15-1199,"Computer , All Other",detailed,13330
+2015,48,TX,Texas,15-2011,Actuaries,detailed,1120
+2015,48,TX,Texas,15-2021,Mathematicians,detailed,130
+2015,48,TX,Texas,15-2031,Operations Research Analysts,detailed,8450
+2015,48,TX,Texas,15-2041,Statisticians,detailed,1390
+2015,48,TX,Texas,15-2091,Mathematical Technicians,detailed,160
+2015,48,TX,Texas,15-2099,"Mathematical Science , All Other",detailed,170
+2016,48,TX,Texas,15-0000,Computer and Mathematical ,major,350160
+2016,48,TX,Texas,15-1111,Computer and Information Research Scientists,detailed,1810
+2016,48,TX,Texas,15-1121,Computer Systems Analysts,detailed,58680
+2016,48,TX,Texas,15-1122,Information Security Analysts,detailed,7790
+2016,48,TX,Texas,15-1131,Computer Programmers,detailed,20430
+2016,48,TX,Texas,15-1132,"Software Developers, Applications",detailed,60550
+2016,48,TX,Texas,15-1133,"Software Developers, Systems Software",detailed,30850
+2016,48,TX,Texas,15-1134,Web Developers,detailed,8540
+2016,48,TX,Texas,15-1141,Database Administrators,detailed,12010
+2016,48,TX,Texas,15-1142,Network and Computer Systems Administrators,detailed,32090
+2016,48,TX,Texas,15-1143,Computer Network Architects,detailed,11620
+2016,48,TX,Texas,15-1151,Computer User Support Specialists,detailed,57340
+2016,48,TX,Texas,15-1152,Computer Network Support Specialists,detailed,17730
+2016,48,TX,Texas,15-1199,"Computer , All Other",detailed,16890
+2016,48,TX,Texas,15-2011,Actuaries,detailed,1180
+2016,48,TX,Texas,15-2021,Mathematicians,detailed,130
+2016,48,TX,Texas,15-2031,Operations Research Analysts,detailed,10620
+2016,48,TX,Texas,15-2041,Statisticians,detailed,1590
+2016,48,TX,Texas,15-2091,Mathematical Technicians,detailed,110
+2016,48,TX,Texas,15-2099,"Mathematical Science , All Other",detailed,200
+2017,48,TX,Texas,15-0000,Computer and Mathematical ,major,353460
+2017,48,TX,Texas,15-1111,Computer and Information Research Scientists,detailed,2170
+2017,48,TX,Texas,15-1121,Computer Systems Analysts,detailed,56220
+2017,48,TX,Texas,15-1122,Information Security Analysts,detailed,7760
+2017,48,TX,Texas,15-1131,Computer Programmers,detailed,20850
+2017,48,TX,Texas,15-1132,"Software Developers, Applications",detailed,67850
+2017,48,TX,Texas,15-1133,"Software Developers, Systems Software",detailed,25330
+2017,48,TX,Texas,15-1134,Web Developers,detailed,7920
+2017,48,TX,Texas,15-1141,Database Administrators,detailed,11570
+2017,48,TX,Texas,15-1142,Network and Computer Systems Administrators,detailed,32660
+2017,48,TX,Texas,15-1143,Computer Network Architects,detailed,12330
+2017,48,TX,Texas,15-1151,Computer User Support Specialists,detailed,57680
+2017,48,TX,Texas,15-1152,Computer Network Support Specialists,detailed,16890
+2017,48,TX,Texas,15-1199,"Computer , All Other",detailed,19640
+2017,48,TX,Texas,15-2011,Actuaries,detailed,1080
+2017,48,TX,Texas,15-2021,Mathematicians,detailed,140
+2017,48,TX,Texas,15-2031,Operations Research Analysts,detailed,11400
+2017,48,TX,Texas,15-2041,Statisticians,detailed,1690
+2017,48,TX,Texas,15-2090,Miscellaneous Mathematical Science ,detailed,280
+2018,48,TX,Texas,15-0000,Computer and Mathematical ,major,364120
+2018,48,TX,Texas,15-1111,Computer and Information Research Scientists,detailed,1830
+2018,48,TX,Texas,15-1121,Computer Systems Analysts,detailed,51710
+2018,48,TX,Texas,15-1122,Information Security Analysts,detailed,8520
+2018,48,TX,Texas,15-1131,Computer Programmers,detailed,20960
+2018,48,TX,Texas,15-1132,"Software Developers, Applications",detailed,71260
+2018,48,TX,Texas,15-1133,"Software Developers, Systems Software",detailed,28720
+2018,48,TX,Texas,15-1134,Web Developers,detailed,7830
+2018,48,TX,Texas,15-1141,Database Administrators,detailed,11020
+2018,48,TX,Texas,15-1142,Network and Computer Systems Administrators,detailed,35100
+2018,48,TX,Texas,15-1143,Computer Network Architects,detailed,12560
+2018,48,TX,Texas,15-1151,Computer User Support Specialists,detailed,60380
+2018,48,TX,Texas,15-1152,Computer Network Support Specialists,detailed,14230
+2018,48,TX,Texas,15-1199,"Computer , All Other",detailed,25620
+2018,48,TX,Texas,15-2011,Actuaries,detailed,1000
+2018,48,TX,Texas,15-2021,Mathematicians,detailed,150
+2018,48,TX,Texas,15-2031,Operations Research Analysts,detailed,11190
+2018,48,TX,Texas,15-2041,Statisticians,detailed,1860
+2018,48,TX,Texas,15-2090,Miscellaneous Mathematical Science ,detailed,200
